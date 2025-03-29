@@ -33,8 +33,10 @@ cd mern-starter-template
 
 # Backend (server)
 cd server
+
 npm install
 
 # Frontend (client)
 cd ../client
+
 npm install
